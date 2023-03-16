@@ -1,6 +1,6 @@
 # Submission
 
-### Project Name:`Student Reviews App`
+### Project Name:`Rate My Courses `
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 # Project Description:
 
-Student Reviews App is an educational site where students evaluate, rate, and review teachers and courses. It allows users to send and receive stream payments and donations.
+Rate My Courses is an educational platform where students evaluate, rate, and review teachers and courses. It allows users to send and receive stream payments and donations.
 
 Students can learn and read more about classes before they commit or register. This will help students save thousands of dollars and time.
 
@@ -29,9 +29,9 @@ In the future, we would like to add functionality for these NFTs to be used as a
 
 <br/>
 
-# How Student Reviews App uses IPFS
+# How Rate My Courses uses IPFS
 
-Student Reviews App uses IPFS NFTStorage to store Professors’ names, job positions, and professors' past performance. IPFS is also used to store class NFTs, names, class details, class events, and class materials and notes. For reviews, IPFS saves all the reviews, tags, class difficulty, class quality, and ratings in a decentralized way.
+Rate My Courses uses IPFS NFTStorage to store Professors’ names, job positions, and professors' past performance. IPFS is also used to store class NFTs, names, class details, class events, and class materials and notes. For reviews, IPFS saves all the reviews, tags, class difficulty, class quality, and ratings in a decentralized way.
 
 For every single endpoint, we return an NFTStorage hash that gets appended to the next IPFS object and it is saved on the smart contract. Then we populate our front end by calling our contract that returns all IPFS cids, and all data needed.
 
@@ -63,22 +63,12 @@ Example links:
     https://github.com/marcialarturo/Student-Reviews-App/blob/91cc4f6def6b24bfd198dcf1ac1272d1a5fdcb9c/Profile.js#L137
     <br/><br/>
 
-# Link to the publicly visible source code repository
-
-https://github.com/marcialarturo/Student-Reviews-App<br/><br/>
 
 # Live Demo
 ### It is responsive website, for best view use a large monitor
 https://student-reviews.netlify.app/#/
 
-# Video Link
 
-https://youtu.be/B-kZtggch-0
-
-# Teamncontact info:
-
-Izmar, metaversemoon@gmail.com
-<br/><br/>
 
 # How It's Made
 
